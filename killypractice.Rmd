@@ -1,0 +1,17 @@
+---
+title: "practice123"
+author: "Killy Magallanes"
+date: "2024-09-21"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+killy code
+```{r}
+c <- (12345)
+c
+```
+
